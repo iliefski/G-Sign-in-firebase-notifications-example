@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "791866430770",
+    "firebase_url": "https://signnpush.firebaseio.com",
+    "project_id": "signnpush",
+    "storage_bucket": "signnpush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791866430770:android:81f9f6fd5ed6d064",
+        "android_client_info": {
+          "package_name": "iliefski.signnpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791866430770-qlksdvvaof23u9lrucurv87m0b3kus10.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "791866430770-ei476d6jb45350vmck26srsq950fs4nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iliefski.signnpush",
+            "certificate_hash": "9a6b4a75258f6b8335940b05922d114b94dbeb46"
+          }
+        },
+        {
+          "client_id": "791866430770-jnvl9vl216crpjgdil03nhchnk0e7i88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJPRrSAAiaNqWzqqf5VAohpNBbxkAlKWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791866430770-qlksdvvaof23u9lrucurv87m0b3kus10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
